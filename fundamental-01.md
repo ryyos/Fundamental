@@ -281,9 +281,9 @@ stepnya seperti ini:
     </div>
     <br>
 
-   2. command `git add .` | untuk menambahkan semua perubahan yang ada dalam direktori kerja ke dalam repositori Git
+   3. command `git add .` | untuk menambahkan semua perubahan yang ada dalam direktori kerja ke dalam repositori Git
 
-   3. command `git commit` | perintah yang digunakan untuk membuat pesan commit
+   4. command `git commit` | perintah yang digunakan untuk membuat pesan commit
 
     <br>
     <div style="text-align: center;">
